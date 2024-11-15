@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketBall", "BasketBall.csproj", "{6B470C06-3282-4BF3-A9B8-56BC7EC49E57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B470C06-3282-4BF3-A9B8-56BC7EC49E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B470C06-3282-4BF3-A9B8-56BC7EC49E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B470C06-3282-4BF3-A9B8-56BC7EC49E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B470C06-3282-4BF3-A9B8-56BC7EC49E57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBD9DB65-5953-4207-A6C8-05C74F84CFB8}
+	EndGlobalSection
+EndGlobal
